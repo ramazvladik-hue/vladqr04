@@ -8,7 +8,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # 1. Вставьте сюда ваш токен от @BotFather
-BOT_TOKEN = os.getenv("8920626227:AAGQlx4DOCPJfCE71ieiCA0cd4MbiRpCbvM") or os.getenv("TOKEN") or os.getenv("API_TOKEN")
+BOT_TOKEN = os.getenv("8920626227:AAGj9h3VRY40QT_A753YIHr3Vm203IDk_E4") or os.getenv("TOKEN") or os.getenv("API_TOKEN")
 
 # Файл для хранения целей и вашего ID
 DATA_FILE = "goals_data.json"
